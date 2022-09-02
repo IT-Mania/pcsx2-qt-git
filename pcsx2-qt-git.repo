@@ -1,0 +1,5 @@
+[ps4-pcsx2-qt-git]
+name=ps4-pcsx2-qt-git
+baseurl=https://raw.githubusercontent.com/IT-mania/pcsx2-qt-git/master/x86_64
+enabled=1
+gpgcheck=0
